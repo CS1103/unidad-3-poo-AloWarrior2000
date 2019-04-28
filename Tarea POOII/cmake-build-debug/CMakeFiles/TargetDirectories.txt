@@ -1,0 +1,3 @@
+C:/Users/Alonso/CLionProjects/New/POOII/cmake-build-debug/CMakeFiles/POOII.dir
+C:/Users/Alonso/CLionProjects/New/POOII/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alonso/CLionProjects/New/POOII/cmake-build-debug/CMakeFiles/rebuild_cache.dir

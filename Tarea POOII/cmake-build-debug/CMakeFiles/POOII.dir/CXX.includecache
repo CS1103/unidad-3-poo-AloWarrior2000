@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alonso/CLionProjects/New/POOII/Carga.h
+
+C:/Users/Alonso/CLionProjects/New/POOII/Simulacion.cpp
+math.h
+-
+Carga.h
+C:/Users/Alonso/CLionProjects/New/POOII/Carga.h
+Simulacion.h
+C:/Users/Alonso/CLionProjects/New/POOII/Simulacion.h
+
+C:/Users/Alonso/CLionProjects/New/POOII/Simulacion.h
+Carga.h
+C:/Users/Alonso/CLionProjects/New/POOII/Carga.h
+
+C:/Users/Alonso/CLionProjects/New/POOII/main.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+Carga.h
+C:/Users/Alonso/CLionProjects/New/POOII/Carga.h
+Simulacion.h
+C:/Users/Alonso/CLionProjects/New/POOII/Simulacion.h
+
